@@ -1,0 +1,16 @@
+{
+  "name": "rappi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "ES6",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}

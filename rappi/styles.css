@@ -1,0 +1,35 @@
+p {
+    text-decoration: none;
+    color: #2e2c36;
+    font-size: larger;
+    font-family: 'Nunito';
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.place {
+    display: flex;
+    gap: 15px;
+    overflow-x: scroll;
+    margin-left: 30px;
+}
+
+.chose {
+    display: flex;
+    gap: 15px;
+    justify-content: start;
+}
+
+.order {
+    display: flex;
+    gap: 15px;
+    justify-content: space-around;
+}
+
+.markets {
+    display: flex;
+    margin-left: 30px;
+    gap: 80px;
+    flex-wrap: wrap;
+    width: 90%;
+}

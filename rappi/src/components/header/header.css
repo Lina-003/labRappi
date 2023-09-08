@@ -1,0 +1,80 @@
+section {
+    position: fixed;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-left: 12px;
+}
+
+.ubi {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 12px;
+}
+
+h3 {
+    text-decoration: none;
+    font-size: 12px;
+    color: #ff441f;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 5px;
+}
+
+p {
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+    font-family: 'Poppins';
+}
+
+.searchB {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+h2 {
+    text-decoration: none;
+    color: #6A696E;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+.shopB {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+*{
+    background-color: white;
+}
